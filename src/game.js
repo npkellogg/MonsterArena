@@ -32,6 +32,12 @@ window.onload = function() {
 
 
   var render = function() {
+    /*
+    if (Hero.health > 0)
+    {
+      ctx.drawImage(Hero.image, Hero.x, Hero.y);
+    }
+    */
     //TODO
   };
 

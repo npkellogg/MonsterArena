@@ -14,6 +14,8 @@ module.exports = (function(){
     this.defense_scale = stats.defense[1];
     this.exp_scale = stats.exp[1];
     this.EntityManager = EntityManager;
+    //Sets image property to whatever
+    //this.image = whatever;
 
     this.exp = 0;
     this.req_exp = 10;
